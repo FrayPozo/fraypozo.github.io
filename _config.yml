@@ -313,8 +313,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Pozo-Lora]
-  first_name: [Fray, F.]
+  last_name: [Pozo-Lora, Pozo]
+  first_name: [Fray, Fray F., F.F.]
 
   style: apa
   locale: en
