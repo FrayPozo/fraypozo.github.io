@@ -9,9 +9,7 @@ profile:
   image: fray_sw.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    #<p>Dept. of Civil and Environmental Engineering</p>
-    #<p>Engineering Center</p>
-    #<p>Florida International University</p>
+    <p>contact: fpozolor at fiu dot edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
