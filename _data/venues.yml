@@ -15,6 +15,10 @@
 "Polymers":
   url: https://www.mdpi.com/journal/polymers
 
-  "IEEE":
+"IEEE":
   url: https://ieeexplore.ieee.org/Xplore/home.jsp
   color: "#00369f"
+
+"Comp. Structures"
+  url: https://www.sciencedirect.com/journal/composite-structures
+  color: "#009f36"
