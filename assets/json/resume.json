@@ -3,7 +3,7 @@
     "name": "Fray F. Pozo-Lora",
     "label": "Research Assistant Professor",
     "image": "",
-    "email": "fpozolor at fiu dot edu",
+    "email": "fpozolor@fiu.edu",
     "phone": "",
     "url": "https://fraypozo.github.io/",
     "summary": "A Dominican researcher working in structural mechanics, construction materials, and reliability",
@@ -73,7 +73,7 @@
       "title": "Outstanding Teacher in the Civil Engineering Department",
       "date": "2022-08-01",
       "awarder": "Universidad Iberoamericana (UNIBE)",
-      "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.unibe.edu.do/jspui/bitstream/123456789/1807/1/Civil%2520Engineering%2520Magazine%2520%2528Mayo-Agosto%25202022%2529.pdf&ved=2ahUKEwj__LqUivGIAxVYRTABHVzqKgwQFnoECBQQAQ&usg=AOvVaw1lsyUTUhuD-zIizNKy75Aj",
+      "url": "https://repositorio.unibe.edu.do/jspui/bitstream/123456789/1807/1/Civil%20Engineering%20Magazine%20%28Mayo-Agosto%202022%29.pdf",
       "summary": "Prize awarded to the best teacher in the department."
     }
   ],
@@ -102,10 +102,9 @@
       ]
     },
     {
-       "name": "Construction Materials and Engineering",
+      "name": "Construction Materials and Engineering",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "",
         "Fiber-reinforced Concrete",
         "Sustainable Materials",
         "Temporary Structures",
