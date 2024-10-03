@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Fray Francisco Pozo Lora
-    # - name: Date of Birth
-    #   value: 14th March 1879
     - name: Languages
       value: English, Spanish, Brazilian Portuguese
 
@@ -17,8 +15,7 @@
       description:
         - Durham School of Architectural Engineering and Construction.
         - Advised by Dr. Marc Maguire.
-        - title: Dissertation Committee Members&#58;
-          contents:
+        - Dissertation Committee Members:
             - Dr. Jay Pucket
             - Dr. George Morcous
             - Dr. Jiong Hu.
@@ -26,39 +23,38 @@
       institution: Utah State University, Logan, UT
       year: 2018
       description:
-        - Civil & Environmental Engineering Department
-        - Advised by Dr. Marc Maguire
-        - title: Thesis Committee Members&#58;
-          contents:
+        - Civil & Environmental Engineering Department.
+        - Advised by Dr. Marc Maguire.
+        - Thesis Committee Members:
             - Dr. Paul J. Barr
-            - Dr. Joseph Caliendo
+            - Dr. Joseph Caliendo.
     - title: Civil Engineer Diploma
       institution: Universidad Autonoma de Santo Domingo, Dominican Republic
       year: 2014
       description:
-        - Civil Engineering School
+        - Civil Engineering School.
+
 - title: Experience
   type: time_table
   contents:
-   - title: Research Assistant Professor
+    - title: Research Assistant Professor
       institution: Innovative Bridge Technologies Accelerated Bridge Construction University Transportation Center at Florida International University
       year: 2024 - Present
       description:
-        - Carbon Neutral Infrastructure
-        - Precast Concrete Construction
+        - Carbon Neutral Infrastructure.
+        - Precast Concrete Construction.
     - title: Postdoctoral Research Associate
       institution: Peter Kiewit Institute at the University of Nebraska
       year: 2023 - 2024
       description:
-        - Current Project. High-Mast Tower Foundation - Phase II
-        - Previous Project. Developing safety factors for concrete structures in the Dominican Republic.
+        - Current Project: High-Mast Tower Foundation - Phase II.
+        - Previous Project: Developing safety factors for concrete structures in the Dominican Republic.
     - title: Undergraduate Instructor
-      institution: Potificia Universidad Catolica Madre & Maestra, Dominican Republic.
+      institution: Pontificia Universidad Católica Madre & Maestra, Dominican Republic
       year: 2021-2022
       description:
         - Taught 1 to 3 courses per term.
         - Reviewed and graded senior design projects.
-
     - title: Undergraduate Instructor
       institution: Universidad Iberoamericana (UNIBE), Dominican Republic
       year: 2021-2022
@@ -71,34 +67,30 @@
   contents:
     - year: 2016-2018
       items: 
-        - Dominican Republic Government Graduate Scholarship. 
+        - Dominican Republic Government Graduate Scholarship.
     - year: 2021
       items: 
-        - Outstanding instructor. UNIBE Civil Engineering School.
+        - Outstanding Instructor, UNIBE Civil Engineering School.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Research.
+    - title: Research
       items: 
         - Sustainable Materials.
         - Structural Reliability.
-    - title: Teaching.
+    - title: Teaching
       items:
         - Active Learning Methods.
-        - Practice-oriented instruction.
+        - Practice-oriented Instruction.
 
 - title: Software and Programming Skills
   type: nested_list
   contents:
     - title: Programming & Computation
       items:
-        - MathCAD, Smath and Excel VBA.
+        - MathCAD, Smath, and Excel VBA.
         - Python, MATLAB, and R.
-    - title: Commercial Finite Element Analysis
-      items:
-        - CSi ETABS, SAP2000 & SAFE.
-        - RISA 3D.
     - title: Commercial Finite Element Analysis
       items:
         - CSi ETABS, SAP2000 & SAFE.
@@ -107,4 +99,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Photography, Cooking, Baseball.
+    - Hobbies: Photography, Cooking, Baseball.
