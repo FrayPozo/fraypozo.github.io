@@ -51,11 +51,11 @@
       "studyType": "M.S.",
       "startDate": "2016-08-01",
       "endDate": "2018-08-10",
-      "courses": ["Advanced Steel Design", "Computer Vision", "Design of Wood and Masonry", "Deep Foundations", "Earthquake Engineering", "Precast/Prestressed Concrete", "Structural Dynamics and Seismic Design"]
+      "courses": ["Advanced Steel Design", "Computer Vision", "Design of Wood and Masonry", "Deep Foundations", "Experimental Solid Mechanics", "Earthquake Engineering", "Precast/Prestressed Concrete", "Structural Dynamics and Seismic Design"]
     },
     {
       "institution": "Universidad Autonoma de Santo Domingo",
-      "location": "Santo Domingo, Dominican Republic",
+      "location": "Dominican Republic",
       "url": "https://www.uasd.edu.do",
       "area": "Civil & Environmental Engineering",
       "studyType": "Engineer's Diploma",
