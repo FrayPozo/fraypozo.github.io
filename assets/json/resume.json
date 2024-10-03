@@ -4,7 +4,7 @@
     "label": "Research Assistant Professor",
     "image": "",
     "email": "fpozolor at fiu dot edu",
-    "phone": ,
+    "phone": "",
     "url": "https://fraypozo.github.io/",
     "summary": "A Dominican researcher working in structural mechanics, construction materials, and reliability",
     "location": {
@@ -111,5 +111,5 @@
         "Temporary Structures",
         "Ultra-high Performance Concrete (UHPC)",
     }
-  ],
+  ]
 }
