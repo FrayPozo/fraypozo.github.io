@@ -2,11 +2,10 @@
   "basics": {
     "name": "Fray F. Pozo-Lora",
     "label": "Research Assistant Professor",
-    "image": "",
     "email": "fpozolor@fiu.edu",
-    "phone": "",
+    "phone": "402-630-4052",
     "url": "https://fraypozo.github.io/",
-    "summary": "A Dominican researcher working in structural mechanics, construction materials, and reliability",
+    "summary": "A Dominican researcher working in structural mechanics, construction materials, and reliability.",
     "location": {
       "address": "Engineering Center, 1055 W Flagler St.",
       "postalCode": "FL 33174",
@@ -24,7 +23,7 @@
   },
   "work": [
     {
-      "name": " Innovative Bridge Technologies/Accelerated Bridge Construction University Transportation Center, Florida International University",
+      "name": "Innovative Bridge Technologies/ABC-UTC, Florida International University",
       "position": "Research Assistant Professor",
       "url": "https://abc-utc.fiu.edu/",
       "startDate": "2024-09-23",
@@ -42,7 +41,6 @@
       "studyType": "Ph.D.",
       "startDate": "2019-08-01",
       "endDate": "2021-08-14",
-      "score": "4.00/4.00",
       "courses": ["Blast Resistant Design", "Formwork Systems", "NDT Techniques"]
     },
     {
@@ -53,7 +51,6 @@
       "studyType": "M.S.",
       "startDate": "2016-08-01",
       "endDate": "2018-08-10",
-      "score": "3.83/4.00",
       "courses": ["Advanced Steel Design", "Computer Vision", "Design of Wood and Masonry", "Deep Foundations", "Earthquake Engineering", "Precast/Prestressed Concrete", "Structural Dynamics and Seismic Design"]
     },
     {
@@ -64,7 +61,6 @@
       "studyType": "Engineer's Diploma",
       "startDate": "2009-01-01",
       "endDate": "2014-08-15",
-      "score": "86.8/100",
       "courses": ["Bridges", "Foundations of Structures", "Metal and Wood Structures", "Reinforced Concrete I, II and III", "Seismic-Resistant Analysis"]
     }
   ],
@@ -80,13 +76,11 @@
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent"
     }
   ],
   "interests": [
@@ -109,6 +103,7 @@
         "Sustainable Materials",
         "Temporary Structures",
         "Ultra-high Performance Concrete (UHPC)"
+      ]
+    }
   ]
-  }
 }
