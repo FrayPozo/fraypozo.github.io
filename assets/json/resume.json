@@ -3,11 +3,11 @@
     "name": "Fray F. Pozo-Lora",
     "label": "Research Assistant Professor",
     "email": "fpozolor@fiu.edu",
-    "phone": "402-630-4052",
+    "phone": "",
     "url": "https://fraypozo.github.io/",
     "summary": "A Dominican researcher working in structural mechanics, construction materials, and reliability.",
     "location": {
-      "address": "Engineering Center, 1055 W Flagler St.",
+      "address": "Engineering Center, 10555 W Flagler St.",
       "postalCode": "FL 33174",
       "city": "Miami",
       "countryCode": "US",
@@ -15,9 +15,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "fpozo90",
-        "url": "https://twitter.com/fpozo90"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
