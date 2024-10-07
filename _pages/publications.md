@@ -19,6 +19,7 @@ nav_order: 2
 {% bibliography -f papers %}
 </div>
 <hr>
+
 ## Conference Papers
 <!-- _pages/publications.md -->
 <div class="publications">
