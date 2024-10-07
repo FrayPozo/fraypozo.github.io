@@ -13,8 +13,18 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+## Journal Papers
+<!-- _pages/publications.md -->
+<div class="publications">
+{% bibliography -f papers %}
+</div>
+<hr>
+## Conference Papers
+<!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f conf_papers %}
+
+</div>
 
 </div>
