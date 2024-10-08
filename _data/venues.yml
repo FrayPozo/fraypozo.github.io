@@ -22,3 +22,11 @@
 "Comp. Structures":
   url: https://www.sciencedirect.com/journal/composite-structures
   color: "#009f36"
+
+"PCI Convention":
+  url: https://www.pci.org
+  color: "#ffD700"
+  
+"CI Magazine":
+  url: https://www.concrete.org/publications/concreteinternational.aspx
+  color: "#ff4500"
