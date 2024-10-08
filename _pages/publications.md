@@ -27,5 +27,3 @@ nav_order: 2
 {% bibliography -f conf_papers %}
 
 </div>
-
-</div>
