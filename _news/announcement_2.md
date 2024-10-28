@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A accepted a Research Assistant Professor position at FIU and will join in fall 2024.
+I accepted a Research Assistant Professor position at FIU and will join in fall 2024.
